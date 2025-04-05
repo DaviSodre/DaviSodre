@@ -1,4 +1,4 @@
-# Opa, eu sou o Davi Sodré — mas pode me chamar de Kendo!
+# Opa, eu sou o Davi Sodré
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por desenvolvimento mobile, automações e projetos criativos. Já participei de projetos acadêmicos e pessoais envolvendo:
 
